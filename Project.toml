@@ -1,6 +1,6 @@
 name = "DecompUtil_jll"
 uuid = "2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

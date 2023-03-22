@@ -1,143 +1,134 @@
 [[DecompUtil]]
 arch = "aarch64"
-git-tree-sha1 = "1add24bbc06e86ba34f408ea4ddc0ed9b4a05529"
+git-tree-sha1 = "ff8960bd309ca828174bd8a7300fb58876a548cd"
 os = "macos"
 
     [[DecompUtil.download]]
-    sha256 = "30593622481426628856548a8514af9120cb073add757d2cf4201d25e6f38cfd"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "4c7ec8211ccb1871c4ba52434305cc30939c40e499903ee77d32a32f83136197"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.aarch64-apple-darwin.tar.gz"
 [[DecompUtil]]
 arch = "aarch64"
-git-tree-sha1 = "5388995ffe459ed96fd7887cf3fb232f3564e72c"
+git-tree-sha1 = "992eae17aa4f7d4b3f4ef1e544a946c890361037"
 libc = "glibc"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "8cc9ad77a047516594de8a10f6d2a91039000d6f17084b87404366740f4426f3"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "84f5ace94ce2ea93342822dccee959f53ce96be3485a2ca82eb2d22c61c060a4"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.aarch64-linux-gnu.tar.gz"
 [[DecompUtil]]
 arch = "aarch64"
-git-tree-sha1 = "a5a7f59d9ff0722cb92cda433cdccc169f07ad9f"
+git-tree-sha1 = "9a829cc4f6578fe114698a7240adeb629501cf8d"
 libc = "musl"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "cb09415bb44bb914f686c3a864bf847f488efab055c2841a037808352f7cb14b"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.aarch64-linux-musl.tar.gz"
+    sha256 = "8eb93ae82321c0f2f8c0383af5d214fe08550d3e79d6e6876e55a2b65a3d0650"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.aarch64-linux-musl.tar.gz"
 [[DecompUtil]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "dd116c7cbf6134d15a0c9ed44eab0af6ac018064"
+git-tree-sha1 = "7b108ea39556e6712d1ade59884d012aee453bb9"
 libc = "glibc"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "509c1506adba0e30c12611817e37b90c82572710f8aa1133fce3b96fd4b385d0"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "926fd67482b88b2e9702e3c327df1eef640fba9d67d4c794de04273bc8129820"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.armv6l-linux-gnueabihf.tar.gz"
 [[DecompUtil]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "58c33b311cd34604ba06b07b3bc4ec3667488f0f"
+git-tree-sha1 = "8e63b22715454de9a89456deba4006d8d6c58ee9"
 libc = "musl"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "55e80d821cf620f756fd758c25a1a7a9f6e9f7cdff5b1a6051bb10332c7a569f"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "cfbfc59c61419c92cf2a148ba985d05a7d48d2437144e9905a9d7c0c9483fb33"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.armv6l-linux-musleabihf.tar.gz"
 [[DecompUtil]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0a80b3fbbeb1f890db8f757c851c18ca2521260a"
+git-tree-sha1 = "559ebcb4e5cd2bb19fb2b05c7e59830bc1aee0c9"
 libc = "glibc"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "93ec465efaf9145768df22f87f268f0e2b325d615cbfc08f3ab0420ac2fdbb08"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "91e91f379b2a55dd628900b7637c6d1ef92e71159fe8e9404f3302626135de22"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.armv7l-linux-gnueabihf.tar.gz"
 [[DecompUtil]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5966392cba3b1614dcef0d9670d1d72a0ff67ef1"
+git-tree-sha1 = "8e5f97eee772a4e11bade20e266bba58ae5e36fd"
 libc = "musl"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "a0992fcf2c860e65ae362ab439b07f5e88df841c46e74de9ab352aafe344869a"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "13864e3ad4e908b67a0925a969a8816ce9de4fa4ee4bc4ab382971649eb4c5d7"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.armv7l-linux-musleabihf.tar.gz"
 [[DecompUtil]]
 arch = "i686"
-git-tree-sha1 = "4b6b4fc79e9408814dbf66d94d4ca94885f2448f"
+git-tree-sha1 = "3dd9e88b97c0774575358b96069a8ad069dcdedb"
 libc = "glibc"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "5c1b4fd53813b5747c436ad42adcf45b645b772351c4e64067ab1027852404e8"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.i686-linux-gnu.tar.gz"
+    sha256 = "069c886fd50a510354bbdc17ee91f0b45dd7c66569f292c0e930256674d66193"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.i686-linux-gnu.tar.gz"
 [[DecompUtil]]
 arch = "i686"
-git-tree-sha1 = "c17c71de5f5298b9f94abd75beaf67770d4fb234"
+git-tree-sha1 = "ce48a979d1b8b61348147dd196e88719470fa7da"
 libc = "musl"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "b898f5d74ac572f2d215d3aaa79d6d61180057a9c5ca1f170d13bbe26258117d"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.i686-linux-musl.tar.gz"
+    sha256 = "064720f854d91cccf732d2a695120546c12ea698a4b8f207351167389679a640"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.i686-linux-musl.tar.gz"
 [[DecompUtil]]
 arch = "i686"
-git-tree-sha1 = "e821c68b5b29eb7714867f5044af1a5fee17026a"
+git-tree-sha1 = "29efa8fdc528310bc4e6ee2321724af3e8b84c28"
 os = "windows"
 
     [[DecompUtil.download]]
-    sha256 = "1c122f66ebfed8abc55a950be9835b016e73258f641add5167005fa482aca9dd"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.i686-w64-mingw32.tar.gz"
-[[DecompUtil]]
-arch = "powerpc64le"
-git-tree-sha1 = "36dd4b78e4e4e6cf0f7b5f4aa58e984e2168ff00"
-libc = "glibc"
-os = "linux"
-
-    [[DecompUtil.download]]
-    sha256 = "4fd3f3ff323968b92f8cb4988bf37f9509c369219f26cad83f9a21cd09ca4dac"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "67d4190ed71c335a4035c5694d45e312e270cb222a4e01450d52b36a5849f080"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.i686-w64-mingw32.tar.gz"
 [[DecompUtil]]
 arch = "x86_64"
-git-tree-sha1 = "77a9ebff940b02bc86775da323cdd9e1449d7517"
+git-tree-sha1 = "32b0876b8402e99ebb6a9a1ed93cb47218382ec1"
 os = "macos"
 
     [[DecompUtil.download]]
-    sha256 = "e58157d9a43bf01e700ab700c7b3e64ee363a2bdd25b4af57b3e45435a543e9a"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "43b75eefae1b726f99392c39dd62b27e36c944a8a31bc63e53f20bfab07d97ce"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.x86_64-apple-darwin.tar.gz"
 [[DecompUtil]]
 arch = "x86_64"
-git-tree-sha1 = "8bb655d6a3affcb56813f7e745dc0c348bea9d3d"
+git-tree-sha1 = "5fb9bfc46d4622a1704ddde3e7cbfc6a5d18dd0f"
 libc = "glibc"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "fbd22da71166ae17385dc5513a57e9b21af31639f46ea2144cf594ba744fb66f"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "5d412490da8e51a475e5f31c7b2fd8660729f38732b5d978ac300725d67b8557"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.x86_64-linux-gnu.tar.gz"
 [[DecompUtil]]
 arch = "x86_64"
-git-tree-sha1 = "e434d634e33b79fa7774f51a74c6946c84075bef"
+git-tree-sha1 = "806f25189419d7fb11fd60d13cbd7b258f9be5f0"
 libc = "musl"
 os = "linux"
 
     [[DecompUtil.download]]
-    sha256 = "3ab30c1111f2302e52e0d40db268b1d8553f1a2eaf796e26d23321a8e2016af6"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.x86_64-linux-musl.tar.gz"
+    sha256 = "5ed07c6259861d3f62369ae1ef38eb93bc2ac14503fdc66ce0c672bfee90edcf"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.x86_64-linux-musl.tar.gz"
 [[DecompUtil]]
 arch = "x86_64"
-git-tree-sha1 = "3b006f9c53587fd3b67debfd0f84c5e76f12efd2"
+git-tree-sha1 = "38a9b10930a70d98a66cf62dd44221b6f9f7e03f"
 os = "freebsd"
 
     [[DecompUtil.download]]
-    sha256 = "1327c1d4155377b483296140fddb384fb5339eb8734a94e44f7f8a62c8541041"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "124c4dedabe05b402a5b6b52a9aeff87cf72f43b4959d25cd33eacf8aede3d63"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.x86_64-unknown-freebsd.tar.gz"
 [[DecompUtil]]
 arch = "x86_64"
-git-tree-sha1 = "c0828742508e9baa07c79c85cdedb9887acaeb99"
+git-tree-sha1 = "a41270741df62104375d6474f3a352f69de4a158"
 os = "windows"
 
     [[DecompUtil.download]]
-    sha256 = "fa2356c1f879122aa51a07843447f5326693c7dfbab91332a92a586390472142"
-    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.1+0/DecompUtil.v0.1.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a0365df44dfb1f29baaca4f9526ca84d65bb1f785f3fa8e20c7af423a8e3ac66"
+    url = "https://github.com/JuliaBinaryWrappers/DecompUtil_jll.jl/releases/download/DecompUtil-v0.1.2+0/DecompUtil.v0.1.2.x86_64-w64-mingw32.tar.gz"
